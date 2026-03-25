@@ -1,0 +1,5 @@
+{
+  "name": "Milonas Transport",
+  "description": "Premium National & International Transport Services in Sindos, Thessaloniki. Established 1978 with over 45 years of experience.",
+  "requestFramePermissions": ["geolocation"]
+}
